@@ -15,7 +15,7 @@ import com.ibm.ABC_airlines.entity.Flight;
 
 @SpringBootTest
 //@ExtendWith(MockitoExtension.class)
-public class FlightRepositoryTest {
+public class FlightRepositoryTest{
 
 	@Autowired
 	private FlightRepository repository;
